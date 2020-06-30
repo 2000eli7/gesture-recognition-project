@@ -1,2 +1,2 @@
 # gesture-recognition-project
-processing hand motions to control OS and mouse movement.
+This project lets the user replace mouse usage with hand motions in front of the webcam.
